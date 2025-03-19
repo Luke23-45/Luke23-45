@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🚀
+# Welcome! 
 
 Hey there! I'm Krishna Subedi, a guy who likes robotics, AI, building stuff with C/C++ and web development.
 
