@@ -1,6 +1,6 @@
 # Welcome! 
 
-Hey there! I'm Krishna Subedi, a guy who likes robotics, AI, building stuff with C/C++ and web development.
+Hey there! I'm the guy who likes robotics, AI, building stuff with C/C++ and web development.
 
 ## About Me
 I love turning my wild ideas from the mind to worlds through programming. I enjoy building stuff from scratch.
@@ -13,6 +13,7 @@ I love turning my wild ideas from the mind to worlds through programming. I enjo
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+# Hi, I'm Luke Green!
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -31,6 +32,7 @@ I love turning my wild ideas from the mind to worlds through programming. I enjo
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luke23-45/Luke23-45/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
 
 <!-- ## 🌐 Let's Connect
