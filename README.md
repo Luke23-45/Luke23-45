@@ -32,9 +32,6 @@ I love turning my wild ideas from the mind to worlds through programming. I enjo
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luke23-45/Luke23-45/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
-
 <!-- ## 🌐 Let's Connect
 
 I'm always looking to connect with fellow developers, tech enthusiasts, and open-source contributors. You can find me on social media platforms like Twitter and LinkedIn. Let's geek out together!
